@@ -1,0 +1,7 @@
+{
+  "parkings": [
+    {"id": 1, "name": "Parking A", "status": "estado1"},
+    {"id": 2, "name": "Parking B", "status": "estado2"},
+    {"id": 3, "name": "Parking C", "status": "estado3"}
+  ]
+}
