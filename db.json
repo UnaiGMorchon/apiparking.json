@@ -1,5 +1,12 @@
 {
   "parkings": [
+      {
+    "nombre": "DISC 7",
+    "latitud": 36.131000,
+    "longitud": -5.455545,
+    "status": "estado2",
+    "address": "C. Jaén, 18",
+  },
     {"id": 1, "name": "Parking A", "status": "estado1"},
     {"id": 2, "name": "Parking B", "status": "estado2"},
     {"id": 3, "name": "Parking C", "status": "estado3"}
